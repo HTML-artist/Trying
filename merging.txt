@@ -1,1 +1,2 @@
-Lets us merge this test.txt file and conflict git example.
+Lets us merge this test.txt file and conflict git example. 
+This one is a line .
